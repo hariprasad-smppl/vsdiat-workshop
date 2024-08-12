@@ -4,9 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/df8b876a-98e0-4bcf-a5be-2266474e3cda)
 
-We are discussing inside the chips
+We are discussing inside the chips.
 
-This board can be represented as a block diagram
+This board can be represented as a block diagram.
 
 ![image](https://github.com/user-attachments/assets/127bd954-b7bc-462a-a076-97463b017682)
 
@@ -50,6 +50,78 @@ The foundry is a big factory with machines where chips are manufactured. VLSI en
 The foundry usually provides some interface files to communicate with the foundry. 
 
   # RISC V ISA
+
+ISA is the way we talk to the computer 
+
+![image](https://github.com/user-attachments/assets/f99665a1-4786-4e96-b5ea-057f7f87b243)
+
+
+C program is compiled and converted to assembly >>, and then to machine-level language.
+
+The binary is in ones and zeros, which hardware can understand. 
+
+Then, each bit will be executed on the hardware. 
+
+![image](https://github.com/user-attachments/assets/f535aba2-b146-4604-a959-ade770a98ff8)
+
+The RTL2GDS flow starts with the RISC V architecture and is then converted to Layout.
+
+but the user will be just executing the 'c' program
+
+HOW does Application software run on the Hardware?
+
+![image](https://github.com/user-attachments/assets/ae53ef77-68fe-43a0-afd5-eabfed6d6204)
+
+
+OS handles IO operations and memory. 
+
+then the compiler converts these to machine language 
+
+the output of the application is small c/c++ functions --> then converted to instruction sets suitable for the process
+
+
+![image](https://github.com/user-attachments/assets/abc38030-74c9-4482-aac7-ea81d3652ee4)
+
+
+#SOC Design using Openlane
+
+To design, we need RTL IPs, EDA tools, PDK( Process design kit) data
+
+
+![image](https://github.com/user-attachments/assets/a848142e-4891-4467-9f7c-914e6b535b1f)
+
+In open source - we have a lot of RTL sources.
+
+We also many academics based EDA tools 
+
+![image](https://github.com/user-attachments/assets/2b1c3022-94d5-43bd-b261-56c0403cd020)
+
+
+What is PDK?
+
+* In the "age of gods!" the design of IC was tightly integrated with manufacturing processes available with each company
+* Lynn Conway and Carver Mead envisioned the need to separate the design from the technology
+
+
+![image](https://github.com/user-attachments/assets/370015f6-3c33-4c7e-b865-8eff1f0706df)
+
+
+Since then we started seeing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
