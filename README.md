@@ -106,7 +106,7 @@ What is PDK?
 ![image](https://github.com/user-attachments/assets/370015f6-3c33-4c7e-b865-8eff1f0706df)
 
 
-Since then we started seeing 
+Since then, we have started seeing. 
 
 
 
