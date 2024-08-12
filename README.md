@@ -214,6 +214,28 @@ Typically cell placement done in two steps.
 ![image](https://github.com/user-attachments/assets/11bc30b6-a6e5-475a-b7a6-0acf191a1d7a)
 
 
+We need to focus on minimum skew and minimal latency. 
+
+* signal routing
+
+![image](https://github.com/user-attachments/assets/087ee88c-8207-48c5-9189-236432e7920f)
+
+
+router uses available metal layer to route as per PDK - PDK defines pich, tracks, and minimum width
+
+Sky Works defines - 6 layers 
+
+- lower interconnect layer
+- The remaining 5 layers are aluminium layers
+
+
+
+
+
+
+
+
+
  
 
  
