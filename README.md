@@ -227,6 +227,59 @@ Sky Works defines - 6 layers
 
 - lower interconnect layer
 - The remaining 5 layers are aluminium layers
+- 
+
+![image](https://github.com/user-attachments/assets/e2fe505c-8968-4c9f-997f-840fb0bfcc14)
+
+most of the routers are grid router 
+
+* Signoff
+
+![image](https://github.com/user-attachments/assets/37df54e2-186d-44fe-b612-849497c22382)
+
+
+![image](https://github.com/user-attachments/assets/bd0cdce6-5029-400b-a5d0-14e6af6c2941)
+
+
+For standardizing the opensource chip flow easier - efabless created a flow and called it as openlane
+
+![image](https://github.com/user-attachments/assets/51c5fc3c-42a4-4646-a4d7-a332bd72a3bd)
+
+![image](https://github.com/user-attachments/assets/d19a5962-6d2b-414e-823d-436ece557e40)
+
+
+![image](https://github.com/user-attachments/assets/8fc56e9f-b726-45b6-9e18-49993d1a74fc)
+
+![image](https://github.com/user-attachments/assets/4eb99f07-8208-4b50-8982-30e16f4395e8)
+
+
+Handling timing violations is still work in progress.
+
+![image](https://github.com/user-attachments/assets/0efa6c2c-684e-48ae-ac4c-5c496c225493)
+
+![image](https://github.com/user-attachments/assets/4acbbe58-eda4-4580-b363-7447cd7080d6)
+
+
+
+![image](https://github.com/user-attachments/assets/69b6ca68-400b-4790-bd57-02337a3a73fb)
+
+![image](https://github.com/user-attachments/assets/78ccb8ae-cf31-41a3-9505-cef36f371d98)
+
+![image](https://github.com/user-attachments/assets/81b31779-1630-4f9a-9714-bdadf70652bb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
