@@ -137,6 +137,11 @@ ASIC design is a complex process that requires a lot of complex steps.
 ![Uploading image.png…]()
 
 
+Main objective from RTL to GDS ( format used by final layout)
+
+
+
+
 
 
 
