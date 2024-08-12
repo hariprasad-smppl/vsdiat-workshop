@@ -134,10 +134,52 @@ Pipelined of the above CPU can 1GHz
 ![image](https://github.com/user-attachments/assets/e7f53a84-1bce-4f79-8ee2-3da49f907bca)
 
 ASIC design is a complex process that requires a lot of complex steps.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e6394d82-0229-465e-bb34-88e7eb30f4c8)
 
 
-Main objective from RTL to GDS ( format used by final layout)
+The main objective from RTL to GDS (the format used by the final layout)
+
+
+![image](https://github.com/user-attachments/assets/02d8fdcf-63fd-4139-8c44-bc08512a565a)
+
+
+# Simplified RTL to GDS flow
+
+![image](https://github.com/user-attachments/assets/7b43e345-156e-4032-98fb-3df853619231)
+
+* Synthesis
+
+![image](https://github.com/user-attachments/assets/a6cdf5ac-5f16-4ed0-ae8b-c2c92761df99)
+
+Resultant circuit represented in HDL - In terms of gate level netlist 
+
+![image](https://github.com/user-attachments/assets/29914adf-78c2-42de-8548-141af55f1e5b)
+
+Building blocks - Standard cell
+
+![image](https://github.com/user-attachments/assets/3cf91d82-0fe9-4b5e-8ab5-eded0893e6c3)
+
+It also consist of a delay model, electrical model etc
+
+* Floor and power planning
+
+- Depends on whether you are implementing a single component or whole chip
+The objective here is to create an area and robust power distribution.
+
+![image](https://github.com/user-attachments/assets/f9316768-2f30-4569-93b4-67f0eb075c3c)
+
+![image](https://github.com/user-attachments/assets/d3464f46-4a13-45e1-8c6e-42f2dacf05bf)
+
+In power planning, power network is contructed
+
+
+
+
+
+
+
+
+
 
 
 
