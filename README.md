@@ -27,6 +27,9 @@ The core is where actual digital logic sits.
 
 ![image](https://github.com/user-attachments/assets/f7af7ad4-e3c3-4450-92d4-74c441553835)
 
+
+
+
 RISC-V Design, as shown in the figure
 
 ![image](https://github.com/user-attachments/assets/7f624d52-e60a-4334-b638-b3af40f5c5c9)
@@ -206,6 +209,10 @@ Typically cell placement done in two steps.
  ![image](https://github.com/user-attachments/assets/9b187ba8-2699-4c77-a9e1-db921d723491)
 
  positions obtained from the global placements are minimally altered 
+* Clock tree synthesis
+
+![image](https://github.com/user-attachments/assets/11bc30b6-a6e5-475a-b7a6-0acf191a1d7a)
+
 
  
 
