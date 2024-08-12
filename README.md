@@ -133,6 +133,8 @@ Pipelined of the above CPU can 1GHz
 
 ![image](https://github.com/user-attachments/assets/e7f53a84-1bce-4f79-8ee2-3da49f907bca)
 
+ASIC design is a complex process that requires a lot of complex steps.
+![Uploading image.png…]()
 
 
 
