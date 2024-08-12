@@ -1,4 +1,4 @@
-# vsdiat-workshop
+./flow# vsdiat-workshop
   # Day - 1
   # Introduction to QFN-48 package, chip, pads, core, die
 
@@ -402,6 +402,31 @@ type command ./flow.tcl -interactive
 The above command helps to do the step-by-step process 
 
 ![image](https://github.com/user-attachments/assets/e2258626-1646-43b5-a5d5-745fe5ef414c)
+
+![image](https://github.com/user-attachments/assets/90fe19d0-55b7-434c-b036-a6f1e891c083)
+
+
+add packages required for the openlane
+
+package require openlane 0.9
+
+
+![image](https://github.com/user-attachments/assets/0962f201-241b-48c8-97f8-f9a82b53dd61)
+
+we are focusing on picorv32 design 
+
+design folder has the following files 
+![image](https://github.com/user-attachments/assets/19b47540-84e7-498a-abe3-4852acc74e59)
+
+Design preparation: prep -design picorv32a
+
+![image](https://github.com/user-attachments/assets/deb48e19-f5e2-4e1d-b33e-852166fbd252)
+
+
+
+
+
+
 
 
 
