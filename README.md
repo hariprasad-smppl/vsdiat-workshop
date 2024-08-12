@@ -268,6 +268,86 @@ Handling timing violations is still work in progress.
 ![image](https://github.com/user-attachments/assets/81b31779-1630-4f9a-9714-bdadf70652bb)
 
 
+# OPENLANE ASIC Design flow 
+
+![image](https://github.com/user-attachments/assets/ffbcb73c-1b07-4227-bf18-0ba8130e1d0d)
+
+
+![image](https://github.com/user-attachments/assets/be3d308c-dee6-410c-9398-0c89cfc52c6b)
+
+synthesis exploration shows delay vs area affected by synthesis strategy
+
+based on this exploration we can take the best strategy 
+
+![image](https://github.com/user-attachments/assets/d0b3f6da-a167-4f6b-b77b-ce70a5a99a5e)
+
+![image](https://github.com/user-attachments/assets/c8e5ad72-e14e-4d9c-b7ee-f8dedd612d2d)
+
+* DFT:
+
+This step uses open-source project fault 
+
+![image](https://github.com/user-attachments/assets/ce145eba-ebbe-4d65-a547-17963c0061e4)
+
+here fault adds extra logic - these scan chains can be used for fabrication for testing 
+
+
+* Physical implementation
+
+These are done using the OpenRoad - app
+
+![image](https://github.com/user-attachments/assets/d94f4082-5234-4866-ba11-3616860727d7)
+
+Since PD involves some level of optimization, we need to do logic equivalence checking of synthesis ( can be done using Yosis)
+
+* LEC
+
+![image](https://github.com/user-attachments/assets/1e270764-a9ff-4e9d-8a17-196dd1536372)
+
+
+* Antenna rule violation
+
+![image](https://github.com/user-attachments/assets/cc8718de-9e36-4a15-a49b-1b092c65d236)
+
+![image](https://github.com/user-attachments/assets/579c210a-26b1-4331-9fc1-be9687cd9011)
+
+![image](https://github.com/user-attachments/assets/155bff23-bc17-4c1b-8fbb-41672ef6382b)
+
+
+there are two approach - openroad and openlane approach 
+
+* Signoff
+
+![image](https://github.com/user-attachments/assets/33d75008-627a-484d-8955-3a0e47412427)
+
+
+![image](https://github.com/user-attachments/assets/1256da42-1414-4a03-8c69-db05df93f847)
+
+
+# LAB Session using Openlane tool
+
+* Openlane is not a tool, it is set of different opensource tools ( Yosys, openSTA ......)
+
+* complete RTL2GDS without human intervenstion
+
+* almost similar to commercial tool
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
