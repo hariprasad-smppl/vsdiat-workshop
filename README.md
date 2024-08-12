@@ -109,6 +109,39 @@ What is PDK?
 Since then, we have started seeing. 
 
 
+But These PDK are covered under NDA, So Google worked on the opernsource PDK
+
+![image](https://github.com/user-attachments/assets/f08a6266-72af-4f0b-9f73-9d607869d95f)
+
+Now, we have all the elements for the ASIC design.
+
+
+![image](https://github.com/user-attachments/assets/223d4dce-ecee-455d-a871-d59dc9d0ac76)
+
+
+The cutting edge is 5nm, but the 130nm is fast enough?
+
+![image](https://github.com/user-attachments/assets/5d8dbbc8-eeac-4a4a-8ac9-8ed61900cc99)
+
+for all the performance advance nodes not required 
+
+130nm is still valid for many applications 
+
+![image](https://github.com/user-attachments/assets/ea82032c-2289-41e6-922b-19c2c35a2e4d)
+
+Pipelined of the above CPU can 1GHz
+
+![image](https://github.com/user-attachments/assets/e7f53a84-1bce-4f79-8ee2-3da49f907bca)
+
+
+
+
+
+
+
+
+
+
 
 
 
