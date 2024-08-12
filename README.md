@@ -332,7 +332,83 @@ there are two approach - openroad and openlane approach
 
 * almost similar to commercial tool
 
-* 
+
+
+* Some of the important Linux commands
+  - cd: change directory
+  - files for the workshop present in work/tools/
+ 
+
+![image](https://github.com/user-attachments/assets/478056b8-3b30-4f2a-ace8-452da04d00c1)
+
+
+* ls -lts : displays the folders and files in chronological order
+
+![image](https://github.com/user-attachments/assets/f5d4d601-295f-4ac2-b1a6-d4ce8dc7fe7b)
+
+* to get help on any command you can use the command --help
+
+* we can clear the screen with clear command
+
+Before clear
+![image](https://github.com/user-attachments/assets/214320ef-9472-4a35-86a8-e0282ead05de)
+
+
+After clear 
+![image](https://github.com/user-attachments/assets/0fffccc9-c3a9-40c2-a9c2-3af10c56a239)
+
+
+change the working directory to openlane working directory 
+
+![image](https://github.com/user-attachments/assets/8a401287-ade4-42d7-b3d6-6242d0faa3d0)
+
+
+we will be seeing two directories:
+
+Openlane and PDK - we will be working on openlane
+
+![image](https://github.com/user-attachments/assets/03243d4f-29d3-40c8-91b9-67f6d4e47d34)
+
+![image](https://github.com/user-attachments/assets/9bf08273-1708-4de6-94f0-48d31ca794e9)
+
+sky130A is compatible with our opensource tool chains 
+
+
+![image](https://github.com/user-attachments/assets/75ec6cc7-f5a9-4d43-aca3-31522d9c205e)
+lib.ref contains process specific files 
+.tech specific to the tool
+
+![image](https://github.com/user-attachments/assets/fc6536fb-ef01-4dbe-a875-d994f51ad821)
+
+![image](https://github.com/user-attachments/assets/bb9ae544-ce07-46c3-afac-6812e7a8cf10)
+
+libs.tech has following files 
+
+![image](https://github.com/user-attachments/assets/eddf4600-1259-4dc0-b54a-9fb3a7432329)
+
+
+nomenclature sky130< process name>_fd< foundry name>_sc< standard cell>
+
+we will be working on openlane directory 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
