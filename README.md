@@ -1,6 +1,6 @@
 # vsdiat-workshop
   # Day - 1
-    # Introduction to QFN-48 package, chip, pads, core, die
+  # Introduction to QFN-48 package, chip, pads, core, die
 
 ![image](https://github.com/user-attachments/assets/df8b876a-98e0-4bcf-a5be-2266474e3cda)
 
@@ -47,7 +47,13 @@ The foundry is a big factory with machines where chips are manufactured. VLSI en
 
 ![image](https://github.com/user-attachments/assets/c154e2e5-227a-4cd2-88ac-3bb9ed65ce8b)
 
-To communicate with the foundry, usually foundry gives some interface files 
+The foundry usually provides some interface files to communicate with the foundry. 
+
+  # RISC V ISA
+
+
+
+
 
 
 
