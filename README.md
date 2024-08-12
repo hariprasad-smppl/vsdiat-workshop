@@ -389,7 +389,24 @@ libs.tech has following files
 
 nomenclature sky130< process name>_fd< foundry name>_sc< standard cell>
 
+
 we will be working on openlane directory 
+
+
+run docker using **docker command** 
+
+change the directory to openlane
+
+type command ./flow.tcl -interactive
+
+The above command helps to do the step-by-step process 
+
+![image](https://github.com/user-attachments/assets/e2258626-1646-43b5-a5d5-745fe5ef414c)
+
+
+
+
+
 
 
 
