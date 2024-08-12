@@ -170,7 +170,61 @@ The objective here is to create an area and robust power distribution.
 
 ![image](https://github.com/user-attachments/assets/d3464f46-4a13-45e1-8c6e-42f2dacf05bf)
 
-In power planning, power network is contructed
+In power planning, power network is constructed
+![image](https://github.com/user-attachments/assets/6b2b5d98-cbf8-40a9-8ca0-cf10345f76c3)
+
+The chip is powered by multiple VDD and the GND pins 
+
+vertical and horizontal metal straps
+
+such parallel structures are meant to reduce the resistance 
+
+Typically power distribution networks uses upper metal layer 
+
+They are thicker than lower metal layer, hence less resistance 
+
+
+* Placement
+
+
+
+![image](https://github.com/user-attachments/assets/be53e23a-8149-47ed-845e-eb5f70608aff)
+
+
+connected cells should be placed close to each other - to reduce interconnect delay also to enable successful routing 
+
+Typically cell placement done in two steps.
+
+ ![image](https://github.com/user-attachments/assets/170f3799-c604-40a7-937b-580d2750198c)
+
+ Global placement, followed by detailed placement 
+
+ ![image](https://github.com/user-attachments/assets/15b890e9-70ae-421b-b440-ec306b6bbd0e)
+
+ Global placement tries to find the optimal positions for all cells; those positions may not be legal - they may go off rows or overlap.
+
+ ![image](https://github.com/user-attachments/assets/9b187ba8-2699-4c77-a9e1-db921d723491)
+
+ positions obtained from the global placements are minimally altered 
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
