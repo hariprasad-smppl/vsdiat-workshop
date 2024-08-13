@@ -434,6 +434,27 @@ prep -design picorv32a
 ![image](https://github.com/user-attachments/assets/73b66568-57f9-4e65-bd36-63aaa9c4f23b)
 
 
+# Checking the runs and netlist 
+
+change directory to designs/runs
+
+change directory to a specific folder 
+
+![image](https://github.com/user-attachments/assets/03f4d034-930e-4aae-b0a0-cf03086b5904)
+
+
+In the temp/merged.lef we will have detailed info about the layout 
+
+
+![image](https://github.com/user-attachments/assets/660c7c6e-0555-4610-bb27-182efb4ee6e2)
+
+
+synthesis file will be empty now
+
+logs will have the each execution steps
+
+
+
 
 
 
