@@ -454,6 +454,71 @@ synthesis file will be empty now
 logs will have the each execution steps
 
 
+config.tcl will have which are the parameters are taken by the run
+
+
+you can make changes to the parameters on the fly 
+
+
+commands will have report of all the commands 
+
+# running Synthesis
+
+**run_syntesis** will run the synthesis of the design
+
+
+![image](https://github.com/user-attachments/assets/120cc0f8-6154-4895-8c3c-94a122658e3c)
+
+
+# Openlane GITHUB
+
+https://github.com/efabless/openlane2
+
+
+# Youtube reference links 
+https://www.youtube.com/watch?v=EczW2IWdnOM&list=PLUg3wIOWD8yoZCg9XpFSgEgljx6MSdm9L
+
+
+#TASK -1
+
+Finding the flop ratio - finding the number of flipflop
+
+![image](https://github.com/user-attachments/assets/4dcdd5dc-b1ee-49a2-8f47-a93ef4027396)
+
+
+![image](https://github.com/user-attachments/assets/a1f16eec-0f85-4918-8223-b94968e91805)
+
+dfxtp_2 found to be 1613
+
+total number of cells found to be 14876
+
+percentage will be 10.84%
+
+you can also find the detailed report in the reports folder 
+
+![image](https://github.com/user-attachments/assets/833b7715-5f3d-46ae-a77c-99a8ff46c849)
+
+you can exit the interactive screen by pressing the key **q**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
