@@ -422,6 +422,21 @@ Design preparation: prep -design picorv32a
 
 ![image](https://github.com/user-attachments/assets/deb48e19-f5e2-4e1d-b33e-852166fbd252)
 
+prepare design using require command 
+
+
+![image](https://github.com/user-attachments/assets/d41663ca-b1a3-4ef4-817a-7fa9f5ba399f)
+
+prep -design picorv32a
+
+![image](https://github.com/user-attachments/assets/1c0271f8-c5ee-4195-b4a3-a7bf8f2ebc36)
+
+![image](https://github.com/user-attachments/assets/73b66568-57f9-4e65-bd36-63aaa9c4f23b)
+
+
+
+
+
 
 
 
